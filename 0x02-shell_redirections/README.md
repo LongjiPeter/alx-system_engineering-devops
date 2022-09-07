@@ -1,0 +1,1 @@
+-e0. Prints helo world and new line to the standard output
